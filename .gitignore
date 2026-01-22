@@ -1,0 +1,21 @@
+# Ignore node modules everywhere
+node_modules/
+
+# Ignore expo cache
+.expo/
+.expo-shared/
+
+# Ignore build folders
+build/
+dist/
+
+# Ignore env files
+.env
+.env.local
+
+# Ignore uploads or big files
+server/uploads/
+frontend/assets/videos/
+*.mp4
+*.mov
+*.zip
